@@ -28,4 +28,4 @@ styles.css: The CSS file for styling the login page.
 README.md: This file.
 
 ## Contact
-Project Link: https://github.com/your-username/login-page
+Project Link: https://sricharan-22.github.io/login_page/
